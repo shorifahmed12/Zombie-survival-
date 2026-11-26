@@ -28,7 +28,9 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render": "remotion render src/index.ts ZombieSurvival out/ZombieSurvival.mp4",
+    "render:short": "remotion render src/index.ts StickmanSurvivalShort out/ZombieSurvivalShort.mp4"
   },
   "allowScripts": {
     "esbuild": false
