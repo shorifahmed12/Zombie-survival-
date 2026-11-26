@@ -1,0 +1,1465 @@
+[
+ {
+  "offsets": {
+   "from": 100,
+   "to": 130
+  },
+  "text": "At"
+ },
+ {
+  "offsets": {
+   "from": 130,
+   "to": 910
+  },
+  "text": "3.13"
+ },
+ {
+  "offsets": {
+   "from": 910,
+   "to": 1760
+  },
+  "text": "a.m.,"
+ },
+ {
+  "offsets": {
+   "from": 1760,
+   "to": 1950
+  },
+  "text": "Daniel"
+ },
+ {
+  "offsets": {
+   "from": 1950,
+   "to": 2480
+  },
+  "text": "received"
+ },
+ {
+  "offsets": {
+   "from": 2480,
+   "to": 2540
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 2540,
+   "to": 2870
+  },
+  "text": "phone"
+ },
+ {
+  "offsets": {
+   "from": 2870,
+   "to": 3290
+  },
+  "text": "call"
+ },
+ {
+  "offsets": {
+   "from": 3290,
+   "to": 3590
+  },
+  "text": "from"
+ },
+ {
+  "offsets": {
+   "from": 3590,
+   "to": 4590
+  },
+  "text": "himself,"
+ },
+ {
+  "offsets": {
+   "from": 4590,
+   "to": 4670
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 4670,
+   "to": 4990
+  },
+  "text": "voice"
+ },
+ {
+  "offsets": {
+   "from": 4990,
+   "to": 5760
+  },
+  "text": "whispered,"
+ },
+ {
+  "offsets": {
+   "from": 5760,
+   "to": 6430
+  },
+  "text": "\"Whatever"
+ },
+ {
+  "offsets": {
+   "from": 6430,
+   "to": 6650
+  },
+  "text": "you"
+ },
+ {
+  "offsets": {
+   "from": 6650,
+   "to": 6950
+  },
+  "text": "do,"
+ },
+ {
+  "offsets": {
+   "from": 6950,
+   "to": 7520
+  },
+  "text": "don't"
+ },
+ {
+  "offsets": {
+   "from": 7520,
+   "to": 7620
+  },
+  "text": "open"
+ },
+ {
+  "offsets": {
+   "from": 7620,
+   "to": 7920
+  },
+  "text": "door"
+ },
+ {
+  "offsets": {
+   "from": 7920,
+   "to": 8740
+  },
+  "text": "13.\""
+ },
+ {
+  "offsets": {
+   "from": 8740,
+   "to": 9400
+  },
+  "text": "Then"
+ },
+ {
+  "offsets": {
+   "from": 9400,
+   "to": 10350
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 10350,
+   "to": 10590
+  },
+  "text": "call"
+ },
+ {
+  "offsets": {
+   "from": 10590,
+   "to": 11730
+  },
+  "text": "ended."
+ },
+ {
+  "offsets": {
+   "from": 11730,
+   "to": 11840
+  },
+  "text": "Daniel"
+ },
+ {
+  "offsets": {
+   "from": 11840,
+   "to": 12000
+  },
+  "text": "was"
+ },
+ {
+  "offsets": {
+   "from": 12000,
+   "to": 12320
+  },
+  "text": "working"
+ },
+ {
+  "offsets": {
+   "from": 12320,
+   "to": 12880
+  },
+  "text": "his"
+ },
+ {
+  "offsets": {
+   "from": 12880,
+   "to": 12880
+  },
+  "text": "first"
+ },
+ {
+  "offsets": {
+   "from": 12880,
+   "to": 13230
+  },
+  "text": "night"
+ },
+ {
+  "offsets": {
+   "from": 13230,
+   "to": 13520
+  },
+  "text": "shift"
+ },
+ {
+  "offsets": {
+   "from": 13520,
+   "to": 13620
+  },
+  "text": "at"
+ },
+ {
+  "offsets": {
+   "from": 13620,
+   "to": 13730
+  },
+  "text": "an"
+ },
+ {
+  "offsets": {
+   "from": 13730,
+   "to": 14310
+  },
+  "text": "abandoned"
+ },
+ {
+  "offsets": {
+   "from": 14310,
+   "to": 14640
+  },
+  "text": "hotel"
+ },
+ {
+  "offsets": {
+   "from": 14640,
+   "to": 15190
+  },
+  "text": "scheduled"
+ },
+ {
+  "offsets": {
+   "from": 15190,
+   "to": 15370
+  },
+  "text": "for"
+ },
+ {
+  "offsets": {
+   "from": 15370,
+   "to": 16240
+  },
+  "text": "demolition."
+ },
+ {
+  "offsets": {
+   "from": 16240,
+   "to": 16590
+  },
+  "text": "There"
+ },
+ {
+  "offsets": {
+   "from": 16590,
+   "to": 16780
+  },
+  "text": "was"
+ },
+ {
+  "offsets": {
+   "from": 16780,
+   "to": 16980
+  },
+  "text": "just"
+ },
+ {
+  "offsets": {
+   "from": 16980,
+   "to": 17470
+  },
+  "text": "one"
+ },
+ {
+  "offsets": {
+   "from": 17470,
+   "to": 18000
+  },
+  "text": "problem."
+ },
+ {
+  "offsets": {
+   "from": 18000,
+   "to": 18350
+  },
+  "text": "The"
+ },
+ {
+  "offsets": {
+   "from": 18350,
+   "to": 18640
+  },
+  "text": "hotel"
+ },
+ {
+  "offsets": {
+   "from": 18640,
+   "to": 18930
+  },
+  "text": "only"
+ },
+ {
+  "offsets": {
+   "from": 18930,
+   "to": 19160
+  },
+  "text": "had"
+ },
+ {
+  "offsets": {
+   "from": 19160,
+   "to": 19760
+  },
+  "text": "12"
+ },
+ {
+  "offsets": {
+   "from": 19760,
+   "to": 20250
+  },
+  "text": "rooms."
+ },
+ {
+  "offsets": {
+   "from": 20250,
+   "to": 21030
+  },
+  "text": "Suddenly,"
+ },
+ {
+  "offsets": {
+   "from": 21030,
+   "to": 21280
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 21280,
+   "to": 21890
+  },
+  "text": "elevator"
+ },
+ {
+  "offsets": {
+   "from": 21890,
+   "to": 22510
+  },
+  "text": "opened"
+ },
+ {
+  "offsets": {
+   "from": 22510,
+   "to": 22600
+  },
+  "text": "by"
+ },
+ {
+  "offsets": {
+   "from": 22600,
+   "to": 23280
+  },
+  "text": "itself."
+ },
+ {
+  "offsets": {
+   "from": 23280,
+   "to": 24490
+  },
+  "text": "Inside"
+ },
+ {
+  "offsets": {
+   "from": 24490,
+   "to": 24640
+  },
+  "text": "was"
+ },
+ {
+  "offsets": {
+   "from": 24640,
+   "to": 24720
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 24720,
+   "to": 25210
+  },
+  "text": "little"
+ },
+ {
+  "offsets": {
+   "from": 25210,
+   "to": 25600
+  },
+  "text": "girl,"
+ },
+ {
+  "offsets": {
+   "from": 25700,
+   "to": 26080
+  },
+  "text": "pointing"
+ },
+ {
+  "offsets": {
+   "from": 26080,
+   "to": 26440
+  },
+  "text": "toward"
+ },
+ {
+  "offsets": {
+   "from": 26440,
+   "to": 26620
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 26620,
+   "to": 27360
+  },
+  "text": "basement"
+ },
+ {
+  "offsets": {
+   "from": 27360,
+   "to": 27640
+  },
+  "text": "button."
+ },
+ {
+  "offsets": {
+   "from": 27640,
+   "to": 28000
+  },
+  "text": "Before"
+ },
+ {
+  "offsets": {
+   "from": 28000,
+   "to": 28360
+  },
+  "text": "Daniel"
+ },
+ {
+  "offsets": {
+   "from": 28360,
+   "to": 28660
+  },
+  "text": "could"
+ },
+ {
+  "offsets": {
+   "from": 28660,
+   "to": 29120
+  },
+  "text": "speak,"
+ },
+ {
+  "offsets": {
+   "from": 29120,
+   "to": 29320
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 29320,
+   "to": 29980
+  },
+  "text": "lights"
+ },
+ {
+  "offsets": {
+   "from": 29980,
+   "to": 30180
+  },
+  "text": "went"
+ },
+ {
+  "offsets": {
+   "from": 30180,
+   "to": 30400
+  },
+  "text": "out."
+ },
+ {
+  "offsets": {
+   "from": 30400,
+   "to": 30750
+  },
+  "text": "When"
+ },
+ {
+  "offsets": {
+   "from": 30750,
+   "to": 31040
+  },
+  "text": "they"
+ },
+ {
+  "offsets": {
+   "from": 31040,
+   "to": 31700
+  },
+  "text": "returned,"
+ },
+ {
+  "offsets": {
+   "from": 31700,
+   "to": 32160
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 32160,
+   "to": 32220
+  },
+  "text": "girl"
+ },
+ {
+  "offsets": {
+   "from": 32220,
+   "to": 32410
+  },
+  "text": "was"
+ },
+ {
+  "offsets": {
+   "from": 32410,
+   "to": 32880
+  },
+  "text": "gone,"
+ },
+ {
+  "offsets": {
+   "from": 32880,
+   "to": 33150
+  },
+  "text": "but"
+ },
+ {
+  "offsets": {
+   "from": 33150,
+   "to": 33340
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 33340,
+   "to": 33950
+  },
+  "text": "elevator"
+ },
+ {
+  "offsets": {
+   "from": 33950,
+   "to": 34180
+  },
+  "text": "was"
+ },
+ {
+  "offsets": {
+   "from": 34180,
+   "to": 34940
+  },
+  "text": "moving"
+ },
+ {
+  "offsets": {
+   "from": 34940,
+   "to": 35200
+  },
+  "text": "down."
+ },
+ {
+  "offsets": {
+   "from": 35200,
+   "to": 35530
+  },
+  "text": "The"
+ },
+ {
+  "offsets": {
+   "from": 35530,
+   "to": 36080
+  },
+  "text": "doors"
+ },
+ {
+  "offsets": {
+   "from": 36080,
+   "to": 36550
+  },
+  "text": "opened"
+ },
+ {
+  "offsets": {
+   "from": 36550,
+   "to": 36890
+  },
+  "text": "into"
+ },
+ {
+  "offsets": {
+   "from": 36890,
+   "to": 36930
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 36930,
+   "to": 37530
+  },
+  "text": "corridor"
+ },
+ {
+  "offsets": {
+   "from": 37530,
+   "to": 37860
+  },
+  "text": "that"
+ },
+ {
+  "offsets": {
+   "from": 37860,
+   "to": 38560
+  },
+  "text": "shouldn't"
+ },
+ {
+  "offsets": {
+   "from": 38560,
+   "to": 39180
+  },
+  "text": "exist."
+ },
+ {
+  "offsets": {
+   "from": 39180,
+   "to": 39370
+  },
+  "text": "At"
+ },
+ {
+  "offsets": {
+   "from": 39370,
+   "to": 39560
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 39560,
+   "to": 39870
+  },
+  "text": "very"
+ },
+ {
+  "offsets": {
+   "from": 39870,
+   "to": 39970
+  },
+  "text": "end"
+ },
+ {
+  "offsets": {
+   "from": 39970,
+   "to": 40560
+  },
+  "text": "stood"
+ },
+ {
+  "offsets": {
+   "from": 40560,
+   "to": 40670
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 40670,
+   "to": 40790
+  },
+  "text": "red"
+ },
+ {
+  "offsets": {
+   "from": 40790,
+   "to": 41360
+  },
+  "text": "door,"
+ },
+ {
+  "offsets": {
+   "from": 41360,
+   "to": 42060
+  },
+  "text": "number"
+ },
+ {
+  "offsets": {
+   "from": 42060,
+   "to": 42400
+  },
+  "text": "13."
+ },
+ {
+  "offsets": {
+   "from": 43040,
+   "to": 43140
+  },
+  "text": "From"
+ },
+ {
+  "offsets": {
+   "from": 43140,
+   "to": 43390
+  },
+  "text": "behind"
+ },
+ {
+  "offsets": {
+   "from": 43390,
+   "to": 43680
+  },
+  "text": "it,"
+ },
+ {
+  "offsets": {
+   "from": 43680,
+   "to": 44220
+  },
+  "text": "someone"
+ },
+ {
+  "offsets": {
+   "from": 44220,
+   "to": 44920
+  },
+  "text": "screamed"
+ },
+ {
+  "offsets": {
+   "from": 44920,
+   "to": 45180
+  },
+  "text": "his"
+ },
+ {
+  "offsets": {
+   "from": 45180,
+   "to": 45840
+  },
+  "text": "name."
+ },
+ {
+  "offsets": {
+   "from": 45840,
+   "to": 45990
+  },
+  "text": "It"
+ },
+ {
+  "offsets": {
+   "from": 45990,
+   "to": 46520
+  },
+  "text": "sounded"
+ },
+ {
+  "offsets": {
+   "from": 46520,
+   "to": 46930
+  },
+  "text": "exactly"
+ },
+ {
+  "offsets": {
+   "from": 46930,
+   "to": 47600
+  },
+  "text": "like"
+ },
+ {
+  "offsets": {
+   "from": 47600,
+   "to": 47640
+  },
+  "text": "his"
+ },
+ {
+  "offsets": {
+   "from": 47640,
+   "to": 48400
+  },
+  "text": "mother."
+ },
+ {
+  "offsets": {
+   "from": 48400,
+   "to": 49000
+  },
+  "text": "Daniel"
+ },
+ {
+  "offsets": {
+   "from": 49000,
+   "to": 49040
+  },
+  "text": "reached"
+ },
+ {
+  "offsets": {
+   "from": 49040,
+   "to": 49200
+  },
+  "text": "for"
+ },
+ {
+  "offsets": {
+   "from": 49300,
+   "to": 49550
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 49550,
+   "to": 50090
+  },
+  "text": "handle."
+ },
+ {
+  "offsets": {
+   "from": 50090,
+   "to": 50260
+  },
+  "text": "His"
+ },
+ {
+  "offsets": {
+   "from": 50260,
+   "to": 50610
+  },
+  "text": "phone"
+ },
+ {
+  "offsets": {
+   "from": 50610,
+   "to": 50960
+  },
+  "text": "rang"
+ },
+ {
+  "offsets": {
+   "from": 50960,
+   "to": 51480
+  },
+  "text": "again."
+ },
+ {
+  "offsets": {
+   "from": 51480,
+   "to": 51950
+  },
+  "text": "\"Look"
+ },
+ {
+  "offsets": {
+   "from": 51950,
+   "to": 52270
+  },
+  "text": "behind"
+ },
+ {
+  "offsets": {
+   "from": 52270,
+   "to": 52770
+  },
+  "text": "you!\""
+ },
+ {
+  "offsets": {
+   "from": 52770,
+   "to": 52840
+  },
+  "text": "A"
+ },
+ {
+  "offsets": {
+   "from": 52840,
+   "to": 53790
+  },
+  "text": "towering"
+ },
+ {
+  "offsets": {
+   "from": 53790,
+   "to": 54000
+  },
+  "text": "creature"
+ },
+ {
+  "offsets": {
+   "from": 54000,
+   "to": 54510
+  },
+  "text": "crawled"
+ },
+ {
+  "offsets": {
+   "from": 54510,
+   "to": 55160
+  },
+  "text": "across"
+ },
+ {
+  "offsets": {
+   "from": 55160,
+   "to": 55200
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 55200,
+   "to": 55760
+  },
+  "text": "ceiling,"
+ },
+ {
+  "offsets": {
+   "from": 55760,
+   "to": 56110
+  },
+  "text": "its"
+ },
+ {
+  "offsets": {
+   "from": 56110,
+   "to": 56250
+  },
+  "text": "head"
+ },
+ {
+  "offsets": {
+   "from": 56250,
+   "to": 56810
+  },
+  "text": "twisting"
+ },
+ {
+  "offsets": {
+   "from": 56810,
+   "to": 57210
+  },
+  "text": "toward"
+ },
+ {
+  "offsets": {
+   "from": 57210,
+   "to": 57650
+  },
+  "text": "him."
+ },
+ {
+  "offsets": {
+   "from": 57650,
+   "to": 58070
+  },
+  "text": "Daniel"
+ },
+ {
+  "offsets": {
+   "from": 58070,
+   "to": 58630
+  },
+  "text": "panicked"
+ },
+ {
+  "offsets": {
+   "from": 58630,
+   "to": 58840
+  },
+  "text": "and"
+ },
+ {
+  "offsets": {
+   "from": 58840,
+   "to": 59260
+  },
+  "text": "opened"
+ },
+ {
+  "offsets": {
+   "from": 59260,
+   "to": 59470
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 59470,
+   "to": 59660
+  },
+  "text": "red"
+ },
+ {
+  "offsets": {
+   "from": 59660,
+   "to": 60350
+  },
+  "text": "door."
+ },
+ {
+  "offsets": {
+   "from": 60350,
+   "to": 60990
+  },
+  "text": "Inside,"
+ },
+ {
+  "offsets": {
+   "from": 60990,
+   "to": 61190
+  },
+  "text": "he"
+ },
+ {
+  "offsets": {
+   "from": 61190,
+   "to": 61740
+  },
+  "text": "found"
+ },
+ {
+  "offsets": {
+   "from": 61740,
+   "to": 61920
+  },
+  "text": "hundreds"
+ },
+ {
+  "offsets": {
+   "from": 61920,
+   "to": 62070
+  },
+  "text": "of"
+ },
+ {
+  "offsets": {
+   "from": 62070,
+   "to": 63150
+  },
+  "text": "photographs."
+ },
+ {
+  "offsets": {
+   "from": 63150,
+   "to": 63680
+  },
+  "text": "Every"
+ },
+ {
+  "offsets": {
+   "from": 63680,
+   "to": 63990
+  },
+  "text": "single"
+ },
+ {
+  "offsets": {
+   "from": 63990,
+   "to": 64220
+  },
+  "text": "one"
+ },
+ {
+  "offsets": {
+   "from": 64220,
+   "to": 64680
+  },
+  "text": "showed"
+ },
+ {
+  "offsets": {
+   "from": 64680,
+   "to": 64910
+  },
+  "text": "him"
+ },
+ {
+  "offsets": {
+   "from": 64910,
+   "to": 65290
+  },
+  "text": "dying"
+ },
+ {
+  "offsets": {
+   "from": 65290,
+   "to": 65440
+  },
+  "text": "in"
+ },
+ {
+  "offsets": {
+   "from": 65440,
+   "to": 65750
+  },
+  "text": "that"
+ },
+ {
+  "offsets": {
+   "from": 65750,
+   "to": 66510
+  },
+  "text": "hotel."
+ },
+ {
+  "offsets": {
+   "from": 66510,
+   "to": 66670
+  },
+  "text": "Then"
+ },
+ {
+  "offsets": {
+   "from": 66670,
+   "to": 66820
+  },
+  "text": "he"
+ },
+ {
+  "offsets": {
+   "from": 66820,
+   "to": 67050
+  },
+  "text": "saw"
+ },
+ {
+  "offsets": {
+   "from": 67050,
+   "to": 67140
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 67140,
+   "to": 67920
+  },
+  "text": "telephone"
+ },
+ {
+  "offsets": {
+   "from": 67920,
+   "to": 68370
+  },
+  "text": "beside"
+ },
+ {
+  "offsets": {
+   "from": 68370,
+   "to": 68440
+  },
+  "text": "a"
+ },
+ {
+  "offsets": {
+   "from": 68440,
+   "to": 69030
+  },
+  "text": "clock."
+ },
+ {
+  "offsets": {
+   "from": 69030,
+   "to": 69920
+  },
+  "text": "3.12"
+ },
+ {
+  "offsets": {
+   "from": 69920,
+   "to": 70500
+  },
+  "text": "a.m."
+ },
+ {
+  "offsets": {
+   "from": 70500,
+   "to": 70670
+  },
+  "text": "He"
+ },
+ {
+  "offsets": {
+   "from": 70670,
+   "to": 71210
+  },
+  "text": "grabbed"
+ },
+ {
+  "offsets": {
+   "from": 71210,
+   "to": 71400
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 71400,
+   "to": 71770
+  },
+  "text": "phone"
+ },
+ {
+  "offsets": {
+   "from": 71770,
+   "to": 71810
+  },
+  "text": "and"
+ },
+ {
+  "offsets": {
+   "from": 71810,
+   "to": 72510
+  },
+  "text": "dialed"
+ },
+ {
+  "offsets": {
+   "from": 72510,
+   "to": 72660
+  },
+  "text": "his"
+ },
+ {
+  "offsets": {
+   "from": 72660,
+   "to": 72910
+  },
+  "text": "own"
+ },
+ {
+  "offsets": {
+   "from": 72910,
+   "to": 73360
+  },
+  "text": "number."
+ },
+ {
+  "offsets": {
+   "from": 73360,
+   "to": 74080
+  },
+  "text": "\"Whatever"
+ },
+ {
+  "offsets": {
+   "from": 74080,
+   "to": 74240
+  },
+  "text": "you"
+ },
+ {
+  "offsets": {
+   "from": 74240,
+   "to": 74880
+  },
+  "text": "do,"
+ },
+ {
+  "offsets": {
+   "from": 74980,
+   "to": 75320
+  },
+  "text": "don't"
+ },
+ {
+  "offsets": {
+   "from": 75320,
+   "to": 75690
+  },
+  "text": "open"
+ },
+ {
+  "offsets": {
+   "from": 75690,
+   "to": 76040
+  },
+  "text": "door"
+ },
+ {
+  "offsets": {
+   "from": 76040,
+   "to": 76920
+  },
+  "text": "13.\""
+ },
+ {
+  "offsets": {
+   "from": 76920,
+   "to": 77450
+  },
+  "text": "Behind"
+ },
+ {
+  "offsets": {
+   "from": 77450,
+   "to": 77910
+  },
+  "text": "him,"
+ },
+ {
+  "offsets": {
+   "from": 77910,
+   "to": 78170
+  },
+  "text": "the"
+ },
+ {
+  "offsets": {
+   "from": 78170,
+   "to": 78520
+  },
+  "text": "door"
+ },
+ {
+  "offsets": {
+   "from": 78520,
+   "to": 79470
+  },
+  "text": "slowly"
+ },
+ {
+  "offsets": {
+   "from": 79470,
+   "to": 79920
+  },
+  "text": "closed."
+ },
+ {
+  "offsets": {
+   "from": 79920,
+   "to": 80100
+  },
+  "text": "He"
+ },
+ {
+  "offsets": {
+   "from": 80100,
+   "to": 80860
+  },
+  "text": "finally"
+ },
+ {
+  "offsets": {
+   "from": 80860,
+   "to": 81680
+  },
+  "text": "understood."
+ },
+ {
+  "offsets": {
+   "from": 81680,
+   "to": 81830
+  },
+  "text": "He"
+ },
+ {
+  "offsets": {
+   "from": 81830,
+   "to": 82060
+  },
+  "text": "had"
+ },
+ {
+  "offsets": {
+   "from": 82060,
+   "to": 82420
+  },
+  "text": "never"
+ },
+ {
+  "offsets": {
+   "from": 82420,
+   "to": 83090
+  },
+  "text": "escaped,"
+ },
+ {
+  "offsets": {
+   "from": 83090,
+   "to": 83440
+  },
+  "text": "and"
+ },
+ {
+  "offsets": {
+   "from": 83440,
+   "to": 83610
+  },
+  "text": "this"
+ },
+ {
+  "offsets": {
+   "from": 83610,
+   "to": 84050
+  },
+  "text": "wasn't"
+ },
+ {
+  "offsets": {
+   "from": 84050,
+   "to": 84430
+  },
+  "text": "his"
+ },
+ {
+  "offsets": {
+   "from": 84430,
+   "to": 84660
+  },
+  "text": "first"
+ },
+ {
+  "offsets": {
+   "from": 84660,
+   "to": 85310
+  },
+  "text": "night."
+ }
+]
